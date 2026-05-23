@@ -1,0 +1,7 @@
+# MIMIC Site Git Ignore
+.browser-screenshots/
+.copilot-tmp/
+.vscode/
+.idea/
+.DS_Store
+*.log
